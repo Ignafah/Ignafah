@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ignafah Tombovelo!
 
-<!--
-**Ignafah/Ignafah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior .NET & AI Engineer** focused on building reliable, scalable and maintainable software.
 
-Here are some ideas to get you started:
+I enjoy turning complex business and technical problems into simple, robust solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **Backend:** C#, .NET, ASP.NET Core, REST APIs
+- **AI:** Python, LLMs, RAG, AI agents, AI integrations
+- **Cloud:** Azure
+- **Architecture:** Clean Architecture, DDD, CQRS, Event-driven systems
+- **Data:** SQL Server, PostgreSQL, Redis
+- **Engineering:** Testing, CI/CD, Docker, observability
+
+### What I care about
+
+- Clean and maintainable code
+- Software architecture
+- Performance and scalability
+- Developer experience
+- Pragmatic engineering
+- Applying AI to real-world problems
+
+### Let's connect
+
+I'm open to interesting **freelance, consulting and software engineering opportunities**.
+
+📍 France
